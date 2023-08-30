@@ -1,4 +1,4 @@
-<h2><a href="https://erkangcmn.github.io/">erkangcmn.github.io</a></h2>
+<h2 style="text-align:center"><a href="https://erkangcmn.github.io/">erkangcmn.github.io</a></h2>
 <table>
   <tr>
     <td><img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="erkangcmn"></td>
