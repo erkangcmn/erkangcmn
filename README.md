@@ -4,7 +4,7 @@
     <td><h2 style="text-align:center"><a href="https://erkangcmn.github.io/">Web Sitem</a></h2></td>
   </tr>
   <tr>
-    <td><pre>🌍 Ptyhon, NodeJS, JavaScript, ReactJS, React Native, MongoDB, C# Bootstrap</pre></td>
+    <td><pre>🌍.Net NodeJS, JavaScript, ReactJS, React Native, MongoDB, C# Bootstrap</pre></td>
   </tr>
 </table>
 
