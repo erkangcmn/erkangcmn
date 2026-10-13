@@ -1,10 +1,10 @@
 {
   "board": [
+    "O",
     null,
     null,
     null,
-    null,
-    null,
+    "X",
     null,
     null,
     null,
@@ -15,7 +15,17 @@
     "bot": 0,
     "draw": 0
   },
-  "players": {},
-  "history": [],
+  "players": {
+    "erkangcmn": {
+      "moves": 1,
+      "wins": 0
+    }
+  },
+  "history": [
+    {
+      "user": "erkangcmn",
+      "cell": 5
+    }
+  ],
   "last": ""
 }
