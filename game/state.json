@@ -1,0 +1,21 @@
+{
+  "board": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "stats": {
+    "human": 0,
+    "bot": 0,
+    "draw": 0
+  },
+  "players": {},
+  "history": [],
+  "last": ""
+}
